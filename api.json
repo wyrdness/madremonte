@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/madremonte",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "madremonte",
+    "name": "Madremonte",
+    "aliases": [],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "of powerful wild feminine",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Madremonte, also known as \\\"Marimonda,\\\" \\\"Madre Monte,\\\" \\\"Madre de Monte,\\\" or \\\"Madre del Monte\\\" (Mother of the Mountain/Forest), is one of the most powerful and revered supernatural figures in Colombian folklore.",
+      "full": "Madremonte, also known as \\\"Marimonda,\\\" \\\"Madre Monte,\\\" \\\"Madre de Monte,\\\" or \\\"Madre del Monte\\\" (Mother of the Mountain/Forest), is one of the most powerful and revered supernatural figures in Colombian folklore. She embodies the untamed force of nature itself, serving as the ultimate guardian and protector of Colombia's forests, rivers, mountains, and wildlife. As a primordial earth spirit deeply rooted in both Indigenous and mestizo traditions, Madremonte represents the relationship between humans and the natural world, punishing those who disrespect or destroy the environment while protecting those who live in harmony with nature. This powerful female entity is particularly prominent in the Andean regions of Colombia, including the coffee-growing zones (Eje Cafetero), but her legend extends throughout the country's mountainous and forested areas. She is considered one of the most important figures in Colombian mythology, alongside La Llorona, El Mohán, and La Patasola, forming part of a complex spiritual ecosystem that governs human interaction with the natural world."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "of powerful wild feminine",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
